@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emin Ustun</h1>
+<h1 align="center">Emin Ustun</h1>
 <h3 align="center">Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eminbustun&label=Profile%20views&color=0e75b6&style=flat" alt="eminbustun" /> </p>
