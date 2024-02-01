@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [UFC_API](https://github.com/eminbustun/UFC_API)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **beminustun2@gmail.com**
 
