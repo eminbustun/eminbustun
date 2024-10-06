@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eminbustun&label=Profile%20views&color=0e75b6&style=flat" alt="eminbustun" /> </p>
 
-- 🔭 I’m currently working on [UFC_API](https://github.com/eminbustun/UFC_API)
-
-- 🌱 I’m currently learning **Django**
+- 🔭 I’m currently working on Machine Learning
+  
 
 - 📫 How to reach me **beminustun2@gmail.com**
 
